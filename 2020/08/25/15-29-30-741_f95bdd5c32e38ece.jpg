@@ -1,0 +1,439 @@
+
+
+
+<!doctype html>
+<html>
+<head>
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="format-detection" content="telephone=no">
+
+<meta name="expires" content="never" />
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+<!-- mobile enhancements -->
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Magiran">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#ff9800" />
+<!-- End mobile enhancements -->
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/webmanifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0087fc">
+<meta name="apple-mobile-web-app-title" content="Magiran">
+<meta name="application-name" content="Magiran">
+<meta name="msapplication-TileColor" content="#2d89ef">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<noscript>
+    <meta http-equiv="refresh" content="0;url=/NoScript" />
+</noscript>
+
+
+
+
+    
+    
+
+            <!-- Canonical Tag -->
+        <link rel="canonical" href="https://www.magiran.com/error/notfound" />
+
+        <meta name="robots" content="noindex, follow" />
+
+    <!-- Bootstrap CSS -->
+    <link href="/Content/bootstrap.min.css" rel="stylesheet"/>
+<link href="/Content/plugins/bootstrap-rtl/bootstrap-rtl.min.css" rel="stylesheet"/>
+<link href="/Content/animate.min.css" rel="stylesheet"/>
+<link href="/Content/style.css" rel="stylesheet"/>
+<link href="/Content/MaterialDesign/material-input.min.css" rel="stylesheet"/>
+<link href="/Content/default.css" rel="stylesheet"/>
+
+    <link href="/Content/default.css" rel="stylesheet"/>
+
+    <link href="/Content/bootstrap-rtl/fix-bootstrap-rtl.min.css" rel="stylesheet" />
+    <link href="/Content/site.css" rel="stylesheet"/>
+
+
+    <!-- FontAwesome CSS -->
+    <link href="/Content/font-awesome/all.min.css" rel="stylesheet"/>
+
+    <link href="/Content/plugins/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.min.css" rel="stylesheet"/>
+
+    <link href="/Content/plugins/ladda/ladda-themeless.min.css" rel="stylesheet"/>
+
+    <link href="/Content/plugins/toastr/toastr.min.css" rel="stylesheet"/>
+
+
+    <!-- Material CSS -->
+    
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <link href="/Content/Robust/vendors/selects/select2.min.css" rel="stylesheet" />
+    <link href="/Content/Robust/vendors/selects/select2-bootstrap.min.css" rel="stylesheet" />
+    <link href="/Content/MatrialCheckbox.min.css" rel="stylesheet" />
+    <link href="/Content/niceSelect/nice-select.min.css" rel="stylesheet" />
+    <link href="/Content/Viewer/viewer.min.css" rel="stylesheet" />
+
+    <title>Magiran </title>
+
+    
+
+    
+    <script src="https://www.google.com/recaptcha/api.js?render=explicit&hl=fa" async defer></script>
+    <script src="https://www.googletagmanager.com/gtag/js?id=UA-3683832-4" async defer></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() { dataLayer.push(arguments); }
+
+        gtag('js', new Date());
+
+        gtag('config', 'UA-3683832-4');
+
+    </script>
+
+</head>
+<body class="rtls h-100" id="top">
+
+    <div class="page-header">
+        <div class="container rtl">
+            <div class="top-menu ">
+                <div class="d-flex justify-content-end">
+
+
+                    
+
+
+                        <div class="top-login d-flex">
+                            <button type="button" class="btn btn-link modal-login">ورود</button><span class="text-white f-lg-b pt-1">|</span>
+                            <button type="button" class="btn btn-link" onclick="window.location = '/account/register'">ثبت نام</button>
+                        </div>
+                </div>
+            </div>
+            <div class="brand">
+                <div>
+                    <a title="بانک اطلاعات نشریات کشور" class="" href="/">
+                        <img src="/Content/images/logo-white.png" width="200" alt="Magiran | مگیران" />
+                    </a>
+                </div>
+            </div>
+            <div class="part-menu">
+                <nav class="navbar navbar-expand-xs">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMain" aria-controls="navbarMain" aria-expanded="false">
+                        <i class="fas fa-bars"></i>
+                    </button>
+                    <div class="collapse navbar-collapse mi-main-menu" id="navbarMain">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="/searchinmagazines?mt=1">مجلات علمی</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/searchinmagazines?mt=2">مجلات تخصصی</a>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/searchinmagazines?mt=3">مجلات عمومی</a>
+                            <li class="nav-item">
+                                <a class="nav-link" href="/newspapers">روزنامه‌ها</a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+            </div>
+            <div class="top-search">
+                <div class="row">
+                    <div class="col-lg-3 col-md-12"></div>
+                    <div class="col-lg-9 col-md-12 d-flex">
+                        <div class="input-group">
+                            <span data-toggle="tooltip" data-placement="bottom" title="با جستجوی مطالب، تک تک واژه‌ها جستجو شده و نتایج بر اساس فراوانی و میزان ارتباط آنها نمایش داده خواهد شد. اگر مایلید جستجو مانند نسخه پیشین عین عبارت مورد نظر شما جستجو شود، گزینه «جستجوی دقیق» را علامت بزنید."><i class="fas fa-info-circle f20 text-success p-1 pt-2 d-none d-sm-inline-block"></i></span>
+                            <div class="form-check abc-checkbox abc-checkbox-primary form-check-inline float-left pr-4 pl-2 d-none d-sm-inline-block">
+                                <input class="form-check-input" id="isExact" type="checkbox" checked />
+                                <label class="form-check-label text-white  " for="isExact">جستجوی دقیق</label>
+                            </div><input type="text" id="q" name="q" placeholder="کلمات یا عبارت مورد نظر خود را درج کنید و کلید جستجو را بزنید." class="form-control" data-toggle="tooltip" title="" />
+                            <div class="input-group-prepend">
+                                <button data-toggle="dropdown" id="btnSearch" class="btn btn-primary dropdown-toggle" type="button">جستجو </button>
+                                <ul class="dropdown-menu" id="searchIn">
+                                    <li data-val="4"><a href="#">در نام و ISSN نشریات</a></li>
+                                    <li class="dropdown-divider"></li>
+                                    <li data-val="1"><a href="#">در مطالب مجلات</a></li>
+                                    <li data-val="2"><a href="#">در مطالب مجلات علمی معتبر</a></li>
+                                    <li data-val="3"><a href="#">در مطالب روزنامه‌ها</a></li>
+                                    <li class="dropdown-divider"></li>
+                                    <li data-val="6"><a href="#">در نویسندگان مجلات</a></li>
+                                    <li data-val="7"><a href="#">در نویسندگان روزنامه‌ها</a></li>
+
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="dropdown px-1">
+                            <button type="button" class="btn btn-warning dropdown-toggle AdSearchbtn" data-toggle="dropdown" title="جستجوی پیشرفته">
+                                <span class="d-none d-sm-inline-block">جستجوی پیشرفته</span><i class="fas fa-search-plus f-xl d-sm-none"></i>
+                            </button>
+
+                            <ul class="dropdown-menu">
+                                <li><a href="/paperadvancedsearch"><span class="d-sm-none">جستجوی پیشرفته </span>در مطالب مجلات</a></li>
+                                <li><a href="/articleadvancedsearch"><span class="d-sm-none">جستجوی پیشرفته </span>در مطالب روزنامه‌ها</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    <div class="container rtl mt-2">
+            <div>
+
+
+
+            </div>
+        <div class="main-body">
+            
+
+    <div class="middle-box text-center animated fadeInDown">
+        <h1><i class="far fa-meh text-info fa-8x"></i></h1>
+        <h2 class="fa-4x">۴۰۴</h2>
+        <h4 class="font-bold">محتوا یا صفحه درخواستی شما پیدا نشد.</h4>
+
+        <div class="error-desc">
+            <br />
+            اطلاعات درخواستی شما حذف یا جابجا شده‌است.<br /> به <a href="/index" class="m-t">صفحه اصلی</a> بازگردید.
+        </div>
+    </div>
+
+
+        </div>
+
+
+    </div>
+
+
+    <div id="ReportButton" class="mi-report" dir="ltr">
+        <i class="fas fa-headset"></i>
+        <div class="overflow-hidden d-inline-block float-right">
+            <span>درخواست پشتیبانی - گزارش اشکال</span>
+
+        </div>
+
+    </div>
+
+    <div class="body-footer">
+<div class="page-footer">
+    <div class="color-filter">
+        <div class="container rtl noprint">
+            <div class="row footer-content">
+                <div class="col-md-4 col-sm-6 col-xs-12 text-right">
+                    <div class="title">درباره مگیران</div>
+                    <ul class="unstyled pr-2">
+                        <li><a href="/help#About" target="_blank">معرفی</a></li>
+                        <li><a href="/help#Policy" target="_blank">خط مشی</a></li>
+                        <li><a href="/help/managers#Policy" target="_blank">ثبت نشریه جدید</a></li>
+                        <li><a href="/help/faq#Policy" target="_blank">سوالات متداول</a></li>
+                        <li><a href="/help/contact" target="_blank">تماس با ما</a></li>
+                        <li class="fa-number">تلفن پشتیبانی کاربران <a dir="ltr" href="tel:02191090891">021-91090891</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4 col-sm-6 text-right">
+                    <div class="title">خدمات مشترکان</div>
+                    <ul class="unstyled pr-2">
+                        <li><a href="/help/membership#Policy" target="_blank">شرایط خدمات</a></li>
+                        <li><a href="/help/membership#IPBased" target="_blank">دسترسی کتابخانه‌ها و مراکز</a></li>
+                        <li><a href="/help/membership" target="_blank">خدمات ویژه اعضا</a></li>
+                        <li><a href="/magazinetariff">اشتراک نسخه چاپی نشریات</a></li>
+                        <li><a href="/user/finance/abonne" target="_blank" rel="nofollow">پرداخت حق اشتراک سایت</a></li>
+                        <li><a href="/help/resume" target="_blank">راهنمای سامانه نویسندگان</a></li>
+
+                    </ul>
+                </div>
+                <div class="col-md-4 col-sm-6 col-xs-12 text-right">
+                    <div class="title">نشان‌ها و تاییدیه‌ها</div>
+                    <div class="d-flex justify-content-start">
+                        <div class="d-inline-block">
+                            <a target="_blank" href="https://trustseal.enamad.ir/?id=10538&code=TQiuKlqDJJVr2NF45ORd"><img width="100" src="/Content/images/logos/namad2star.png" alt="logo-namad2star" style="cursor:pointer" id="TQiuKlqDJJVr2NF45ORd"></a>
+                        </div>
+                        <div class="d-inline-block">
+                            <img id='nbqefukzjxlzwlaorgvj' width="100" style='cursor:pointer' onclick='window.open("https://logo.samandehi.ir/Verify.aspx?id=26143&p=uiwkgvkarfthaodsxlao", "Popup","toolbar=no, scrollbars=no, location=no, statusbar=no, menubar=no, resizable=0, width=450, height=630, top=30")' alt='logo-samandehi' src='/Content/images/logos/samandehi.png' />
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="d-flex justify-content-end mb-2 mt-2">
+                
+                <div class="UserIP m-r-lg" data-toggle="tooltip" title="شما با این IP به سایت مگیران متصل شده‌اید.">
+                    <span>3.249.90.157</span>
+                    <i class="fas fa-laptop aw-icon"></i>
+                </div>
+
+            </div>
+        </div>
+        <div class="footer-alert">
+            <div class="container rtl">
+                <div class="text-right">
+                    تمامی خدمات پایگاه magiran.com ،حسب مورد دارای مجوزهای لازم از مراجع مربوطه می‌باشند و فعالیت‌های این سایت تابع قوانین و مقررات جمهوری اسلامی ایران است
+                </div>
+            </div>
+        </div>
+        <div class="footer-copyright ">
+            <div class="container rtl">
+
+                <div class="row mb-4">
+                    <div class="col-md-6 text-right mb-2">
+                        همه حقوق مادی و معنوی متعلق به «بانک اطلاعات نشریات کشور» است.<br />
+                        <small>
+                            اطلاعات مندرج در این پایگاه فقط جهت مطالعه کاربران با رعایت شرایط اعلام شده است.  نسخه‌برداری و بازنشر اطلاعات به هر روش، در هر نوع رسانه و با هر هدفی ممنوع و پیگرد قانونی دارد.
+                        </small>
+                    </div>
+                    <div class="col-md-6" dir="ltr">
+                        <img src=/Content/images/logo-gray.png alt="Magiran | مگیران" width="100" />
+                        <small>©2000-2020 magiran.com All Rights Reserved.</small>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+
+    <!-- Section for main scripts render -->
+    <script src="/Scripts/jquery-3.3.1.min.js"></script>
+
+    <script src="/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+<script src="/Scripts/MaterialDesign/material-input.min.js"></script>
+
+    <script src="/Scripts/popper.min.js"></script>
+<script src="/Scripts/bootstrap.min.js"></script>
+
+    <script src="/Scripts/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+
+    <script src="/Scripts/Robust/vendors/selects/select2.full.min.js"></script>
+<script src="/Scripts/Robust/vendors/selects/i18n/fa.js"></script>
+<script src="/Scripts/jquery.select2-ajax.js"></script>
+
+    <script src="/Scripts/plugins/ladda/spin.min.js"></script>
+<script src="/Scripts/plugins/ladda/ladda.min.js"></script>
+<script src="/Scripts/plugins/ladda/ladda.jquery.min.js"></script>
+
+    <script src="/Scripts/plugins/metisMenu/jquery.metisMenu.js"></script>
+<script src="/Scripts/plugins/pace/pace.min.js"></script>
+<script src="/Scripts/app/inspinia.js"></script>
+
+    <script src="/Scripts/sweetalert2/sweetalert2.min.js"></script>
+<script src="/Scripts/sweetalert2/jquery.swal-ajax.min.js"></script>
+
+    <script src="/Scripts/jquery.bootstrap-modal-ajax-form.min.js"></script>
+<script src="/Scripts/jquery.bootstrap-modal-ajax.min.js"></script>
+
+    <script src="/Scripts/plugins/clipboard/clipboard.min.js"></script>
+
+    <script src="/Scripts/MaterialDesign/material-input.js"></script>
+
+
+    <script src="/Scripts/persianNum.jquery-2.min.js"></script>
+    <script src="/Scripts/jquery.select2-ajax.min.js"></script>
+    <script src="/Scripts/site-admin.min.js"></script>
+    <script src="/Scripts/niceSelect/jquery.nice-select.min.js"></script>
+    <script src="/Scripts/jQuery.print.min.js"></script>
+    <script src="/Scripts/Viewer/viewer.min.js"></script>
+
+    <!-- Handler for local scripts -->
+    
+    <script type="text/javascript">
+        var ua = window.navigator.userAgent;
+        var msie = ua.indexOf("MSIE ");
+
+        if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./))
+        {
+            window.location = '/noie';
+        }
+    </script>
+    <script>
+
+        var formMag = $("#__AjaxAntiForgeryMagInfoForm"),
+            tokenMag = $('input[name="__RequestVerificationToken"]', formMag).val();
+        $(document).ready(function() {
+            $(".image-viewer").click(function() {
+                $(this).parent().find("img").viewer("show");
+            }), $("#searchIn li").click(function(e) {
+                e.preventDefault();
+                var a = $(this).data("val"),
+                    i = $("#q").val();
+                if (i.length < 2)
+                    $("#q").tooltip("enable"), $("#q").addClass("border-danger")
+                        .attr("data-original-title", "برای جستجو حداقل باید دو حرف وارد کنید.").tooltip("fixTitle")
+                        .tooltip("show");
+                else
+                    switch (a) {
+                    case 1:
+                        if ($('#isExact').is(':checked'))
+                            window.location = '/searchinpapers/?adv=false&isExact=true&cols=1,2,3&ew=' + i;
+                        else
+                            window.location = '/searchinpapers/?q=' + i;
+                        break;
+                    case 2:
+                        if ($('#isExact').is(':checked'))
+                            window.location = '/searchinpapers/?dt=3&adv=False&isExact=true&cols=1,2,3&ew=' + i;
+                        else
+                            window.location = '/searchinpapers/?dt=3&q=' + i;
+                    break;
+                    case 3:
+                        if ($('#isExact').is(':checked'))
+                           window.location = '/searchinnewspapers/?dt=3&adv=True&isExact=true&cols=1,2,3&ew=' + i;
+                        else
+                           window.location = '/searchinnewspapers/?q=' + i;
+                    break;
+                    case 4:
+                        window.location = '/searchinmagazines/?iq=' + i;
+                        break;
+                    case 6:
+                        window.location = '/searchinpapers/?adv=False&cols=4&s=1&ew=' + i;
+                        break;
+                    case 7:
+                        window.location = '/searchinnewspapers/?adv=True&cols=1,2&s=1&np=0&p=' + i;
+                        break;
+                    case 5:
+                        var o = $(this).data("id"),
+                            n = $(this).data("magazine");
+                        window.location = 1 == n
+                            ? '/searchinpapers/?m=' + o + "&q=" + i
+                            : '/searchinnewspapers/?np=' + o + "&q=" + i;
+                    }
+            }), $(".nice-select").niceSelect(), $("body").persianNum(), $("#q").keyup(function() {
+                $(this).val().length > 1 && ($(this).removeClass("border-danger"), $(this).tooltip("dispose"));
+            }), $("#lastVolumes").change(function() {
+                var e = $(this).val();
+                e && (window.location = '/newspapertoc/' + e);
+            });
+        });
+
+    </script>
+<!---start GOFTINO code--->
+<script type="text/javascript">
+
+    window.addEventListener('goftino_ready', function (p) {
+        Goftino.setUser({
+            name: ' ',
+            about: 'UID= | AID=0 | NoAbonne',
+            phone: '',
+            forceUpdate: true
+        });
+    });
+
+    !function () { var a = window, d = document; function g() { var g = d.createElement("script"), s = "https://www.goftino.com/widget/KkFdbr", l = localStorage.getItem("goftino"); g.type = "text/javascript", g.async = !0, g.src = l ? s + "?o=" + l : s; d.getElementsByTagName("head")[0].appendChild(g); } "complete" === d.readyState ? g() : a.attachEvent ? a.attachEvent("onload", g) : a.addEventListener("load", g, !1); }();
+</script>
+    <!---end GOFTINO code--->
+</body>
+</html>
